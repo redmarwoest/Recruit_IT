@@ -83,3 +83,5 @@ Quality
 The HTML code must be valid. Scrum teams should be able to prove the validity using a trusted HTML5 validator; 
 
 The page content and structure should adhere to the case and fit the user's(recruiter) needs.   
+
+Hello I'm Ken.
