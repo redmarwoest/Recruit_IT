@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 5px;
+    text-align: center;
+    background: #000;
+    color: white;
+    font-size: 30px;
+}
+
+section#to-do-list,
+section#cv-list {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
